@@ -1,5 +1,4 @@
-![header](https://github.com/user-attachments/assets/527c9c9a-4bf8-4a4d-82a3-9038c823b370)
-
 <h1 align="center" style="border-bottom: none">
-    MeMe-Metrics.<br/>Meme Trend Analysis Platform
+    <img width="661" alt="mmm" src="https://github.com/user-attachments/assets/264d63dc-3228-46fd-bd41-7f6e20f359bf" /> <br/>
+    Meme Trend Analysis Platform
 </h1>
